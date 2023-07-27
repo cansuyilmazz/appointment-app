@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import Doctors from "../components/Doctors";
 import AppointmentList from "../components/AppointmentList";
 import { doctorData } from "../helper/data";
